@@ -2,5 +2,5 @@ ipykernel
 numpy
 matplotlib
 tensorflow
-opencv-python
+opencv-python-headless     # for streamlit
 streamlit
